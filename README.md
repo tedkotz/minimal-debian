@@ -65,9 +65,9 @@ Design notes and scripts for an idea for a base Debian image that takes full adv
 7. Find similar swiss-army knife tools to bring in??
 
 ## TODO
--[] Choose version of Debian
--[] Chose version of busybox
--[] get list of busybox tools
--[] get list of debian minimal install packages 
+- [] Choose version of Debian
+- [] Chose version of busybox
+- [] get list of busybox tools
+- [] get list of debian minimal install packages 
 
 
